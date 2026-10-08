@@ -1,0 +1,1 @@
+# quotecraft-react-native-starter
